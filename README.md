@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, PostgreSQL.**
 
-- 💬 Ask me about **Angular, SpringBoot**
-
 - 📫 How to reach me **mouad.fifel5@gmail.com or +212766102519**
 
 
