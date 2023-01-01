@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mouad</h1>
 
 <p align="center"> <img src="https://github.com/mouad5-bot/mouad5-bot/blob/main/pec.png" /> </p>
-img {
-  margin-right: 20px;
+p, img {
+  margin-left: 10px;
 }
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL.**
