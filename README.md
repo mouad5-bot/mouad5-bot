@@ -56,7 +56,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fifelmouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fifelmouad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mouad-fifel-462036215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mouad-fifel-462036215/" height="30" width="40" /></a>
+<a href="https://twitter.com/FifelMouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fifelmouad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouad-fifel-462036215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mouad-fifel-462036215/" height="30" width="40" /></a>
 <a href="https://discord.gg/#4379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4379" height="30" width="40" /></a>
 </p>
