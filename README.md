@@ -7,7 +7,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 
-<p align="center"> <img src="https://github.com/mouad5-bot/mouad5-bot/blob/main/pec.png" /> </p>
+ <img src="https://github.com/mouad5-bot/mouad5-bot/blob/main/pec.png" /> 
 
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL.**
