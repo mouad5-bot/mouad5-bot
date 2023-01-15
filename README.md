@@ -1,13 +1,12 @@
 <div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=6ddaf4&vCenter=true&width=600&height=70&lines=Hi+👋+,+I'm+Mouad;a+Full+Stack+Developer;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=24292f&vCenter=true&width=600&height=70&lines=Hi+👋+,+I'm+Mouad;a+Full+Stack+Developer;)](https://git.io/typing-svg) 
  
  </div>  
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 
- <img src="https://github.com/mouad5-bot/mouad5-bot/blob/main/pec.png" /> 
+ <img src="https://github.com/mouad5-bot/mouad5-bot/blob/main/MOUAD.png" /> 
 
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL.**
