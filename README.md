@@ -1,24 +1,24 @@
 <div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=24292f&vCenter=true&width=600&height=70&lines=Hi+👋+,+I'm+Mouad;a+Full+Stack+Developer;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=58aeff&vCenter=true&width=600&height=70&lines=Hi+👋+,+I'm+Mouad;a+Full+Stack+Developer;)](https://git.io/typing-svg) 
  
  </div>  
+
+
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-fifel-462036215/)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100074328135721)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FifelMouad)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mouad_fiiifel/?hl=fr)
+[![hackerRank Follow](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&amp;logo=hackerrank)](https://www.hackerrank.com/mouad_fifel5)
+[![CodingGame Follow](https://img.shields.io/badge/Codingame-purple?style=for-the-badge&amp;logo=codingame)](https://www.codingame.com/profile/1a83e96b5184d9431839f0a9a029d2bf8612515)
+[![Stackoverflow Follow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21098971/mouad-fifel)
 
 
 
  <img src="https://github.com/mouad5-bot/mouad5-bot/blob/main/MOUAD.png" /> 
 
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL.**
 
-- 📫 How to reach me **mouad.fifel5@gmail.com or +212766102519**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/FifelMouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fifelmouad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mouad-fifel-462036215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mouad-fifel-462036215/" height="30" width="40" /></a>
-<a href="https://discord.gg/#4379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4379" height="30" width="40" /></a>
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouad5-bot&label=Profile%20views&color=0e75b6&style=flat" alt="mouad5-bot" /> </p>
 
@@ -26,7 +26,7 @@
 
 <h3 align="left" jusfity-content="between">Languages and Tools:</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -50,7 +50,74 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Adobe xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; -->
+
+
+
+
+
+### Languages
+<!-- Frontend -->
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
+### Frameworks
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
+### Tools
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+
+<!-- Development Tools -->
+<img align="left" alt="MYSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
+<br/>
+<br/>
+
+
+
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad5-bot&show_icons=true&locale=en&layout=compact" alt="mouad5-bot" /></p>
