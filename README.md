@@ -11,7 +11,6 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mouad_fiiifel/?hl=fr)
 [![hackerRank Follow](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&amp;logo=hackerrank)](https://www.hackerrank.com/mouad_fifel5)
 [![CodingGame Follow](https://img.shields.io/badge/Codingame-purple?style=for-the-badge&amp;logo=codingame)](https://www.codingame.com/profile/1a83e96b5184d9431839f0a9a029d2bf8612515)
-[![Stackoverflow Follow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21098971/mouad-fifel)
 
 
 
