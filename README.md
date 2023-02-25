@@ -121,12 +121,25 @@
 
 
 
+  <p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad5-bot&show_icons=true&locale=en&layout=compact"
+                 alt="mouad5-bot">  
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouad5-bot&" alt="mouad5-bot"> 
+</p>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad5-bot&show_icons=true&locale=en&layout=compact" alt="mouad5-bot" /></p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mouad5-bot&show_icons=true&locale=en" alt="mouad5-bot" />
+  </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouad5-bot&show_icons=true&locale=en" alt="mouad5-bot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouad5-bot&" alt="mouad5-bot" /></p>
+<!-- <div style="display:flex; flex-direction: row;">
+  <div style="flex:1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouad5-bot&" alt="mouad5-bot" />
+  </div>
+  <div style="flex:1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mouad5-bot&show_icons=true&locale=en" alt="mouad5-bot" />
+  </div>
+</div> -->
 
 
